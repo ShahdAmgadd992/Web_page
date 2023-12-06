@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: url(web.jpg);
+    background-size: cover;
+  }
+  .content{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: absolute;
+   
+
+  }
+  
+  
+  
+  
+  
+  .main{
+    padding: 30px 50px;
+    width: 100%;
+    display: flex;
+  }
+  #h1{
+    font-size: 70px;
+  }
+  #h2{
+    font-size: 30px;
+  }
+  
+  #p1{
+    font-size: 25px;
+  }
+  #p2{
+    font-size: 25px;
+  }
+  #p3{
+    font-size: 25px;
+  }
+  
+
+  .hpic{
+    margin-left:80% ;
+    margin-top: 3%;
+    
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  
+  
